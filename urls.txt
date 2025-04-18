@@ -1,0 +1,13 @@
+https://useast-www.securly.com/schoollogos/leesummit.png
+https://useast-www.securly.com/app/images/blocking-animation.gif
+https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js
+https://useast-www.securly.com/js/vendor/jquery-1.11.0.min.js
+https://www.securly.com/site/css/grid.css
+https://useast-www.securly.com/css/colorbox.css
+https://useast-www.securly.com/app/css/login-layouts.css
+https://www.securly.com/site/css/fonts/metropolis/stylesheet.css
+https://useast-www.securly.com/app/css/blocked.css
+https://www.securly.com/site/assets/img/favicons/favicon-180x180.png
+https://www.securly.com/site/assets/img/favicons/favicon-32x32.png
+https://www.securly.com/site/assets/img/favicons/favicon-16x16.png
+https://useast-www.securly.com/app/images/redirecting-spinner.svg
